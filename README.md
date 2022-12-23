@@ -1,2 +1,3 @@
 # SmilesLanguageManager
-Language manager for Smiles App
+
+A description of this package.
